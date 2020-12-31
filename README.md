@@ -1,0 +1,7 @@
+    HELLO THIS IS SADHIK.
+    I LIVE IN BANGALORE.
+    MY SKILS:
+    1.HTML
+    2.JAVA
+    3.CSS
+    4.JS
